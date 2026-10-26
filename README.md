@@ -2,7 +2,16 @@
 
 > A persistent, containerized AWS-compatible learning environment built with Floci, Docker Desktop, Terraform, AWS CLI, PowerShell, and VS Code.
 
-![Status](https://img.shields.io/badge/status-foundation%20complete-238636) ![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA) ![Cloud](https://img.shields.io/badge/cloud-AWS%20emulated-FF9900)
+
+![Status](https://img.shields.io/badge/Status-Foundation%20Complete-brightgreen)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA)
+![AWS](https://img.shields.io/badge/Cloud-AWS%20Emulated-FF9900)
+![Floci](https://img.shields.io/badge/AWS%20Emulator-Floci-635BFF)
+![Docker](https://img.shields.io/badge/Containers-Docker-2496ED)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC)
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE)
+![AWS CLI](https://img.shields.io/badge/CLI-AWS%20CLI-FF9900)
+
 
 ## Project overview
 

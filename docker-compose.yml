@@ -1,0 +1,18 @@
+
+services:
+  floci:
+    image: floci/floci:latest
+    container_name: floci
+    restart: unless-stopped
+
+    ports:
+      - "127.0.0.1:4566:4566"
+
+    environment:
+      FLOCI_STORAGE_MODE: persistent
+      FLOCI_STORAGE_PERSISTENT_PATH: /app/data
+      FLOCI_SERVICES_UI_BIND_ADDRESS: "127.0.0.1"
+
+    volumes:
+      - ./data:/app/data
+      - /var/run/docker.sock:/var/run/docker.sock

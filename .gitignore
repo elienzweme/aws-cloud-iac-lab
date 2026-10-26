@@ -1,0 +1,31 @@
+# Terraform state and provider downloads
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform variables that may contain secrets
+*.tfvars
+*.tfvars.json
+!*.tfvars.example
+
+# Floci persistent runtime data
+data/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

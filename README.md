@@ -186,3 +186,18 @@ Terraform lifecycle (`init`, `validate`, `plan`, `apply`), local AWS API endpoin
 ---
 
 *Status: Foundation completed and verified in October 2026. This repository documents an independent cloud/IaC learning project.*
+
+---
+
+## Author
+
+**Elie Nzweme**  
+*IT Systems Administration | Cloud Infrastructure & Cybersecurity*
+
+Information technology professional focused on cloud infrastructure, infrastructure as code (IaC), automation, identity and access management (IAM), and security engineering.
+
+This project is part of my hands-on learning journey to strengthen my practical skills in AWS, Terraform, Docker, cloud security, and infrastructure automation.
+
+**GitHub:** [@elienzweme](https://github.com/elienzweme)
+
+**Project Repository:** [AWS Cloud Infrastructure & IaC Lab](https://github.com/elienzweme/aws-cloud-iac-lab)
